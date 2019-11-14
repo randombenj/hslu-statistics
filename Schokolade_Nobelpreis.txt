@@ -1,0 +1,23 @@
+"Country" "Nobel Laureates per 10 Million" "Chocolate consumption (kg) per capita"
+"Sweden" 30.677 4.4
+"Switzerland" 30.125 10.2
+"Norway" 24.947 9.2
+"Denmark" 24.695 7.9
+"Austria" 24.577 8.5
+"United Kingdom" 19.315 8.8
+"Ireland" 17.06 8.8 
+"Germany" 13.013 9.1
+"Netherlands" 11.226 4.5
+"United States" 10.970 5.3 
+"France" 9.473 4.9
+"Belgium" 8.850 9.1
+"Finland" 7.268 6.2
+"Canada" 6.400 3.9
+"Australia" 5.006 4.8
+"Italy" 3.345 3.5
+"Portugal" 1.932 2.0
+"Japan" 1.896 1.8 
+"Greece" 1.826 2.5
+"Spain" 1.735 1.6
+"China" 0.065 0.7 
+"Brazil" 0.048 1.0

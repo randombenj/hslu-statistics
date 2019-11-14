@@ -1,0 +1,10 @@
+"Day", "gamma"
+"April 5", 1.00
+"April 6", 0.96
+"April 7", 1.02
+"April 8", 1.00
+"April 9", 1.002
+"April 13", 1.022
+"April 14", 0.99
+"April 15", 0.98
+"April 16", 0.93 
